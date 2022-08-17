@@ -223,3 +223,150 @@ header nav ul li:last-of-type a{
 .margin{
     margin:18px;
 }
+.work_example{
+    background-image: url("../images/reeding house.jpg");
+    min-height: 600px;
+    background-size:cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.work_example .subtitle_container{
+    max-width:285px;
+    margin-right:75px;
+}
+.subtitle_container h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.subtitle_container p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+.clients{
+    background-color:#403E3B;
+    padding-top:60px;
+    padding-bottom:60px;
+}
+.container_clients{
+    max-width: 1168px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+.container_clients h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ECE7E4;
+}
+.container_clients h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+}
+.container_clients p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #ECE7E4;
+    padding-top: 14px;
+}
+.container_customers{
+    max-width: 460px;
+    height:160px;
+}
+.illustration{
+    height:290px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 124px;
+    padding-bottom: 108px;
+    flex-direction: column;
+}
+.illustration_2{
+    height:290px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.work_example_staircase {
+    background-image: url("../images/marble_staircase.jpg");
+    min-height: 600px;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.work_example_staircase h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.work_example_staircase p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+.work_example_staircase .subtitle_container_staircase{
+    max-width: 285px;
+    margin-right: 75px;
+}
+.work_example_swirling{
+    background-image: url("../images/swirling_staircase.jpg");
+    min-height: 600px;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.work_example_swirling .subtitle_container_swirling{
+    max-width: 285px;
+    margin-left: 60px;
+}
+.subtitle_container_swirling h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.subtitle_container_swirling p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
